@@ -125,14 +125,14 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Georgian College",
-      logo: require("./assets/images/Georgian_College_logo.svg"),
+      logo: require("./assets/Georgian_College_logo.png"),
       subHeader: "PostGraduate Diploma In Big Data Analytics and Artificial Intelligence",
       duration: "January 2023 - April 2024",
       desc: "Ranked top 10% in the program. Graduated With Honors"
     },
     {
       schoolName: "LDRP University",
-      logo: require("./assets/images/ldrp-logo.svg"),
+      logo: require("./assets/ldrp-logo.png"),
       subHeader: "Bachelor of Engineering in Computer Engineering",
       duration: "june 2018 - May 2022",
       desc: "Ranked top 10% in the program. Graduated With Honors"
