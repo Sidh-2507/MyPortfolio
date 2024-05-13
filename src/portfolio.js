@@ -20,25 +20,23 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "7 Sid",
   title: "Hi all, I'm Siddharth",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "Dynamic Software Engineer 🚀 adept in cloud application development and Java programming, with a focus on AWS technologies and Agile methodologies. Experienced in streamlining processes, enhancing system performance, and driving innovation."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1A8gJK_u5v40V5Ad_A1b-KxJnZYV1fUVB/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
+  github: "https://github.com/Sidh-2507",
+  linkedin: "https://www.linkedin.com/in/siddharth-trivedi-sidhuuu2507/",
+  gmail: "sidhuuu2507@gmail.com",
+  medium: "https://medium.com/@sidhuuu2507",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -117,7 +115,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-docker"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -129,20 +127,15 @@ const educationInfo = {
       schoolName: "Georgian College",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      duration: "January 2023 - April 2024",
+      desc: "Ranked top 10% in the program. Graduated With Honors"
     },
     {
       schoolName: "LDRP University",
       logo: require("./assets/images/stanfordLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      subHeader: "Bachelor of Engineering in Computer Engineering",
+      duration: "june 2018 - May 2022",
+      desc: "Ranked top 10% in the program. Graduated With Honors"
     }
   ]
 };
