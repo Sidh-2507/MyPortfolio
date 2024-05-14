@@ -37,7 +37,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/siddharth-trivedi-sidhuuu2507/",
   gmail: "sidhuuu2507@gmail.com",
   medium: "https://medium.com/@sidhuuu2507",
-  
+  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
