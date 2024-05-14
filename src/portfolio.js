@@ -169,7 +169,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Sarjen Systems Pvt Ltd",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/logo.png"),
       date: "June 2022 – Dec 2022",
       desc: "Ahmedabad",
       descBullets: [
