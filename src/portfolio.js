@@ -155,7 +155,7 @@ const techStack = {
     },
     {
       Stack: "Programming",
-      progressPercentage: "70%"
+      progressPercentage: "90%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -322,7 +322,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: True // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
